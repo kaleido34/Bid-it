@@ -46,11 +46,3 @@ Set up using xampp
 ![WhatsApp Image 2024-02-19 at 13 50 34_0418e99a](https://github.com/vishwajeetk5/BidIt/assets/119106702/a9a843bb-140e-4fb1-a3a8-e593f1c9cbca)
 ![WhatsApp Image 2024-02-19 at 13 50 32_b3288132](https://github.com/vishwajeetk5/BidIt/assets/119106702/90a5fcf5-0b4e-4e9c-97c7-bbd48158c4ae)
 
-## Demo
-
-https://youtu.be/ovi0WQVhajc
-
-## Our Team Avinya 
-
-- [Kartik](https://www.github.com/kartikdonwade)
-- [Sambhav](https://github.com/SambhavPatil)
